@@ -93,3 +93,21 @@ A command-line Rock Paper Scissors game developed using Python.
 
 ```bash
 git clone https://github.com/Priyanshu0111/CODSOFT_TASKSNO.git
+
+cd CODSOFT_TASKSNO
+
+python CODSOFT_TASK1/<filename>.py
+
+python CODSOFT_TASK2/<filename>.py
+
+python CODSOFT_TASK3/<filename>.py
+
+python CODSOFT_TASK4/<filename>.py
+
+👤 Author
+
+Priyanshu Kumar
+
+GitHub: @Priyanshu0111
+
+Internship: Python Programming Internship - CODSOFT
