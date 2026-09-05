@@ -104,10 +104,9 @@ python CODSOFT_TASK3/<filename>.py
 
 python CODSOFT_TASK4/<filename>.py
 
-👤 Author
+👨‍💻 Author
 
-Priyanshu Kumar
+Priyanshu Gond
 
-GitHub: @Priyanshu0111
-
-Internship: Python Programming Internship - CODSOFT
+Python Programming Internship
+CODSOFT
